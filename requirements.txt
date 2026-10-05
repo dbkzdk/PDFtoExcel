@@ -1,0 +1,8 @@
+# Tested target: CPython 3.11, 64-bit Windows
+PyMuPDF==1.26.4
+opencv-python-headless==4.11.0.86
+numpy==1.26.4
+openpyxl==3.1.5
+Pillow==11.3.0
+paddlepaddle==3.2.0
+paddleocr==3.3.2
